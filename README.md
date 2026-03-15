@@ -173,6 +173,3 @@ The purpose of this project is to explore practical applications of generative A
 ## Author
 
 Technical Project Manager exploring the use of Generative AI in Agile software delivery and project management workflows.
-
-
-## Repository Structure
