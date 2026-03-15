@@ -1,0 +1,15 @@
+Key Decisions
+Payment gateway integration will be postponed to the next sprint.
+
+Action Items
+Backend team finalize updated payment API endpoints.
+Frontend team update checkout integration.
+QA team prepare regression testing plan.
+
+Responsible Teams
+Backend Team
+Frontend Team
+QA Team
+
+Potential Risks
+Possible delay in checkout release if API updates are not completed in time.

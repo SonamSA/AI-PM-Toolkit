@@ -1,0 +1,16 @@
+Sprint Plan (2 Weeks)
+
+Priority Tasks
+
+1. Integrate new payment gateway
+Estimated Effort: 5 days
+
+2. Fix checkout page bug
+Estimated Effort: 2 days
+
+3. Optimize category page performance
+Estimated Effort: 3 days
+
+Dependencies
+
+Payment gateway integration requires backend API configuration before frontend implementation.

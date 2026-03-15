@@ -1,0 +1,9 @@
+Sprint review meeting for the global automotive parts ecommerce platform.
+
+Backend team reported delay in payment gateway integration due to API changes from the payment provider.
+
+Frontend team working on checkout UI improvements using React.
+
+Client requested support for additional international shipping options.
+
+QA team preparing regression testing for checkout workflow.
