@@ -119,6 +119,7 @@ Below is a simplified architecture of how AI supports project management tasks.
 
 ## Repository Structure
 
+```
 AI-PM-Toolkit
 │
 ├── README.md
@@ -129,15 +130,14 @@ AI-PM-Toolkit
 ├── 05-stakeholder-reporting.md
 │
 ├── examples
-│ ├── meeting-input.txt
-│ ├── meeting-output.txt
-│ ├── backlog-input.txt
-│ └── sprint-output.txt
+│   ├── meeting-input.txt
+│   ├── meeting-output.txt
+│   ├── backlog-input.txt
+│   └── sprint-output.txt
 │
 └── diagrams
-└── ai-pm-workflow.png
-
-
+    └── ai-pm-workflow.png
+```
 
 The repository includes example inputs and outputs demonstrating how AI can assist project management workflows.
 
